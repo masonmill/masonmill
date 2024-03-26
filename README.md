@@ -1,5 +1,5 @@
 ### Hi, I'm Mason 👋
 
-I'm a Computer Science student at Michigan interested in operating systems, distributed systems, and networking.
+I'm a CS student interested in software systems. I am currently taking EECS 482 at UMich.
 
 Want to get in touch? Contact me at [masonmil@umich.edu](masonmil@umich.edu) or message me on [LinkedIn](https://www.linkedin.com/in/masonmil)!
