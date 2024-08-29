@@ -46,4 +46,4 @@ I'm always looking to expand my skillset. Right now, I'm focusing on:
 
 ---
 
-🙏 Thanks for visiting my profile! I'm always open to interesting conversations and collaboration opportunities, so please feel free to reach out!
+🙏 Thanks for visiting my profile! I'm always open to interesting conversations and collaboration opportunities, so please reach out!
