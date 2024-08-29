@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mason
 
-## 🎓 Computer Science Student at University of Michigan | 💻 Aspiring Software Engineer
+## 💻 CS @ UMich | 📊 Research Assistant @ OrderLab | 🧑‍💻 Aspiring Software Engineer
 
 I'm a computer science student passionate about low-level programming and software systems. From developing a kernel-level thread library to analyzing cutting-edge I/O frameworks like io_uring, I'm driven by the challenges of optimizing performance and pushing the boundaries of computing. As I pursue software engineering opportunities, I'm excited to contribute to projects that enhance system efficiency and reliability, bridging the gap between hardware capabilities and high-level applications.
 
