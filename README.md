@@ -38,12 +38,6 @@ I'm always looking to expand my skillset. Right now, I'm focusing on:
 - LinkedIn: [@masonmil](https://www.linkedin.com/in/masonmil)
 - GitHub: [@masonmill](https://github.com/masonmill)
 
-### 💡 Fun Facts
-
-- I'm interested in Korean language and Pungmul
-- I enjoy bouldering and playing tennis in my free time
-- I used to be a Yorick one-trick in League of Legends
-
 ---
 
 🙏 Thanks for visiting my profile! I'm always open to interesting conversations and collaboration opportunities, so please reach out!
