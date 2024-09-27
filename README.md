@@ -13,9 +13,9 @@ I'm a computer science student passionate about low-level programming and softwa
 
 ### 🛠 Skills
 
-- **Languages:** C, C++, ARM Assembly, Python, JavaScript, HTML, CSS, SQL, Bash
-- **Technologies:** Linux, UNIX, ARMv8, QEMU, Git, GDB, Valgrind, System calls, POSIX APIs, CMake
-- **Areas of Expertise:** Operating Systems, Web Systems, Data Structures & Algorithms
+- **Languages:** C, C++, Python, ARM, RISC-V, Verilog, SystemVerilog, Bash, JavaScript, HTML, CSS, SQL
+- **Technologies:** Linux, UNIX, QEMU, Git, GDB, Valgrind, System Calls, POSIX APIs, CMake, RTL Design
+- **Areas of Expertise:** Operating Systems, Computer Architecture, Web Systems, Data Structures & Algorithms
 
 ### 🚀 Featured Projects
 
